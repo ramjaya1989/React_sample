@@ -1,0 +1,27 @@
+{
+  "name": "react-example",
+  "version": "0.0.294",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.19.2",
+    "bootstrap": "3.4.1",
+    "jQuery": "1.7.4",
+    "jquery": "3.5.1",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-redux": "5.0.6",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

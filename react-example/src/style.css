@@ -1,0 +1,23 @@
+a:focus {
+  outline: none;
+}
+
+.serviceFilter {
+  padding: 15px 0;
+}
+
+.serviceFilter a {
+  margin-right: 6px;
+  color: #666;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  padding: 4px 15px;
+  border-radius: 50px;
+  display: inline-block;
+}
+
+.serviceFilter a.current {
+  background: #1e1e1e;
+  border: 1px solid #1e1e1e;
+  color: #f9f9f9;
+}
